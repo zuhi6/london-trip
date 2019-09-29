@@ -62,3 +62,16 @@ A single journey on the London Underground costs £2.90 (zone 1-2) and a bus jou
 ## Harry Potter Museum Getting There
 
 * https://www.wbstudiotour.co.uk/getting-here
+
+## Places I want to see :)
+
+* **London Eye**
+* **Elizabeth Tower** (Big Ben)
+* **Tower Bridge**
+* **Buckingham Palace**
+* **Westminster Abbey**
+* **Trafalgar Square**
+* **Millennium Bridge**
+* **The Sherlock Holmes Museum** (Baker Street)
+* **Chinatown**
+* **Oxford Street**
